@@ -1,0 +1,57 @@
+Shubham Jain
++1 (551)-371-2984 | sjain71@stevens.edu | Linkedin
+Education
+Stevens Institute of Technology, Hoboken May 2026
+Master of Science in Applied Artificial Intelligence GPA: 3.89
+Relevant Courses: Machine Learning,Deep Learning,Developing Business Application using GenAI,GPU and Multicore Programming
+Jaypee Institute of Information Technology, Noida June 2019
+B. Tech in Electronics and communication Engineering
+Relevant Courses: Data Structures, Introduction to IOT, Algorithm and Artificial Intelligence and Quantum Mechanics
+Experience
+Technology Consultant July 2019 – July 2024
+Deloitte Consulting India Private Limited Hyderabad, IN
+• Testing and QA Expertise: Specialized in Functional and Automation Testing, with comprehensive knowledge of the Software
+Development Life Cycle (SDLC), leveraging tools such as ALM (4+ years across 7 projects), JIRA (8 projects), Deloitte’s
+proprietary COFTA (with AI and computer vision integration), and Q-test.
+• Project Leadership and Client Collaboration: Led testing efforts for high-stakes modules across prestigious clients, including
+Disney, Walmart, Lululemon, Ascension, General Electric, and Old Mutual Wealth. Ensured seamless quality assurance for
+software applications, websites, and module functionality, tailored to unique client needs.
+• Automation Achievements: Pioneered automation strategies across multiple projects, significantly reducing manual testing
+efforts by at least 30% - 70% and saving 2000-3000 of hours in cumulative project time.
+• Recognition for Excellence: Received a Deloitte Spot Award for successfully integrating E2E UI and API automation scripts in
+the high-profile Disney Seaware Band Integration project, demonstrating technical precision and strategic project impact.
+Embedded Engineer Intern May 2018 – July 2018
+Centre for Digital Excellence Private Limited Noida, IN
+• Humanoid Robot Operations: Managed full operation of the humanoid exoskeleton “INAYA,” ensuring smooth, stable motion.
+• Multi-Modal Control: Optimized “INAYA’s” direct, wireless, and cloud-based control methods for improved responsiveness.
+Technical Skills
+Tools: Jupyter Notebook, Tableau, GitHub, JIRA, HP-ALM, OCTANE, RunScope, COFTA Automation, Q-test, Excel, Power BI, PowerPoint
+Programming Languages: CUDA C, Python, Java, Java-Selenium, Javascript , SQL, C, C Sharp
+Libraries: Numpy, Pandas, Matplotlib, Pytorch, OpenCV, Keras, TensorFlow, Qiskit, ROS
+Certificate: AWS Cloud Practitioner Certified,Google Introduction to GenAI
+Projects
+GameSweeper: Game Theory and AI for Refining Single-Agent Minesweeper Strategies
+• Designed an AI framework integrating Bayesian Networks, Pattern Solvers, and Markov Decision Processes (MDPs) to address
+Minesweeper’s NP-complete computational challenges
+• Achieved up to 90% win rates on standard grids by implementing AI algorithm and dynamic game refinement metrics
+Autonomous tracking Robot Using Computer Vision and Machine Learning
+• Developed a robot equipped with a camera capable of detecting facial features, measuring distance, analyzing sentiment, and
+autonomously tracking individuals.
+COVID-19 Classification Using CT Scans with Convolutional Neural Networks
+• Developed a CNN model to classify lung CT scan images into COVID positive and negative cases, achieving 99% accuracy
+• Preprocessed image datasets with Otsu and fillhole method and applied data augmentation to enhance model performance
+LEADERSHIP AND TEAMWORK
+Deloitte Fun and Mental Health Team Aug 2019-July 2024
+• Organized Fun Friday events, including meditation, group games, and outings (both in-person and virtual), to help employees
+re-energize and unwind from stress
+MICROCONTROLLER BASED SYSTEM AND ROBOTICS HUB July 2016-April 2018
+• Trained 500 freshman students to create manual robot and autonomous robot
+• Mentoring and training freshman students to create microcontroller-based projects
+ACHIEVEMENTS
+• Won 2nd position in AWS Deepracer competition organized by Deloitte
+• Team Won 3rd position in ML Fitness competition organized by AI Guild in Deloitte
+• Finalist in Technoutsav 2018 by Deloitte for developing a smart parking system under the Internet of Things theme
+VOLUNTEER WORK
+• Deloitte Impact Day: Guided students on career paths and recorded audiobooks for visually impaired children
+• Unnat Bharat Abhiyaan (1 year): Developed engineering solutions and prototypes to address challenges in
+university-adopted villages.

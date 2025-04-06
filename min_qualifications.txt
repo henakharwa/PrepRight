@@ -1,0 +1,21 @@
+Necessary Qualifications 
+
+Be located and eligible to work in the United States 
+Work out of our Chicago or NYC Office or remote (we will consider on a case-by-case basis)
+1+ years of professional experience in industry
+Currently pursuing a Bachelor's or Master's degree in Machine Learning, Data Science, AI, Computer Science, Computer Engineering, Electrical Engineering, or a closely related field. 
+Graduate-level coursework or work experience in areas like NLP, design/engineering of large scale systems, advanced ML
+Strong interest in learning how AI solutions drive business value 
+Proficiency in Python or R, vector databases, PyTorch/Tensorflow/JAX, industry-standard NLP toolkits and AI platforms (such as LangChain and HuggingFace) with an eagerness to learn new tools and platforms quickly
+Excellent communication and interpersonal skills 
+
+
+Preferred Qualifications
+
+0-2 years of experience in AI/ML engineering role, in training, evaluating, and deploying scalable AI/ML models in production environments 
+Experience in running ML/AI models in distributed clusters, GPU optimization, and parallel environments 
+Experience in data science or ML engineering role
+Experience in projects or building products that materially use and deploy language models or generative AI 
+Experience in designing, developing and deploying conversational AI solutions 
+Experience in GCP and Snowflake 
+Experience in financial services 
